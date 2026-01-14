@@ -1,0 +1,12 @@
+LICENSE
+README.md
+setup.py
+synbio_promoter/__init__.py
+synbio_promoter/cli.py
+synbio_promoter/predictor.py
+synbio_promoter_predictor.egg-info/PKG-INFO
+synbio_promoter_predictor.egg-info/SOURCES.txt
+synbio_promoter_predictor.egg-info/dependency_links.txt
+synbio_promoter_predictor.egg-info/entry_points.txt
+synbio_promoter_predictor.egg-info/requires.txt
+synbio_promoter_predictor.egg-info/top_level.txt

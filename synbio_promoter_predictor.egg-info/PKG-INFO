@@ -1,0 +1,15 @@
+Metadata-Version: 2.4
+Name: synbio-promoter-predictor
+Version: 0.1.0
+Summary: Rule-based bacterial promoter predictor
+Author: Rong Fan
+Author-email: fandud@163.com
+Requires-Python: >=3.7
+License-File: LICENSE
+Requires-Dist: pandas
+Dynamic: author
+Dynamic: author-email
+Dynamic: license-file
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary

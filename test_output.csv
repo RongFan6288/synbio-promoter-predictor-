@@ -1,0 +1,4 @@
+sequence_id,sequence,promoter_probability
+strong_promoter,TTGACAATATAATGTATTTC,100.0
+weak_sequence,ATGCATGCATGCATGCATGC,0.0
+client_seq,GTTGACATATAATGCTTTCC,100.0

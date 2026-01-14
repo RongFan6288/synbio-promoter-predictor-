@@ -1,0 +1,56 @@
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <meta charset="utf-8">
+        <title>design_report.md</title>
+        <style>
+            body { 
+                font-family: "Segoe UI", "Microsoft YaHei", sans-serif; 
+                line-height: 1.6; 
+                max-width: 900px; 
+                margin: 40px auto; 
+                padding: 0 20px; 
+                color: #333;
+            }
+            h1, h2 { border-bottom: 1px solid #eee; padding-bottom: 8px; }
+            code { 
+                background: #f5f5f5; 
+                padding: 2px 6px; 
+                border-radius: 4px; 
+                font-size: 0.95em;
+            }
+            pre { 
+                background: #f9f9f9; 
+                padding: 12px; 
+                border-radius: 6px; 
+                overflow-x: auto;
+            }
+        </style>
+    </head>
+    <body>
+        <h1>AI 辅助基因设计报告</h1>
+<h2>客户序列</h2>
+<div class="codehilite"><pre><span></span><code>GTTGACATATAATGCTTTCC
+</code></pre></div>
+
+<h2>预测结果</h2>
+<ul>
+<li><strong>启动子概率</strong>：[95%]</li>
+<li><strong>判断依据</strong>：  </li>
+<li>包含典型原核启动子 -10 区（<code>TATAAT</code>）  </li>
+<li>-35 区为 <code>GTTGAC</code>，与共识序列 <code>TTGACA</code> 高度相似  </li>
+<li>符合大肠杆菌强启动子特征</li>
+<li><strong>实验建议</strong>：<br />
+  ✅ 可用于构建高表达载体；<br />
+  ⚠️ 建议通过荧光报告基因实验验证实际转录活性。</li>
+</ul>
+<h2>工具信息</h2>
+<ul>
+<li>模型名称：Day 5 CNN 启动子预测器</li>
+<li>Git 提交ID：<code>a1b2c3d</code>（可通过 <code>git log --oneline -n 1</code> 查看真实ID）</li>
+<li>本地路径：<code>D:\synbio_projects</code></li>
+</ul>
+    </body>
+    </html>
+    
