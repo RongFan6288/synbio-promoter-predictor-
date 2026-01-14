@@ -1,0 +1,8 @@
+>strong_promoter
+TTGACAATATAATGTATTTC
+>weak_sequence
+ATGCATGCATGCATGCATGC
+>client_seq
+GTTGACATATAATGCTTTCC
+>invalid_length
+AAAA
