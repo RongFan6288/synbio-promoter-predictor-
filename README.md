@@ -42,3 +42,4 @@ If you use this tool in your research, please cite:
   url = "https://github.com/RongFan6288/synbio-promoter-predictor-"
 }
 ```
+This citation can be directly used in LaTeX, Zotero, or other reference managers.
