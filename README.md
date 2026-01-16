@@ -6,6 +6,7 @@
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-black?logo=github)](https://github.com/RongFan6288/synbio-promoter-predictor-)
 
 A lightweight CLI tool for prokaryotic promoter prediction. 
+
 从 DNA 序列预测细菌启动子活性的轻量级命令行工具。
 
 ```text
