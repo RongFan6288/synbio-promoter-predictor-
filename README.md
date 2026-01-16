@@ -5,6 +5,7 @@
 [![Python](https://img.shields.io/pypi/pyversions/synbio-promoter-predictor?color=yellow)](https://pypi.org/project/synbio-promoter-predictor/)
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-black?logo=github)](https://github.com/RongFan6288/synbio-promoter-predictor-)
 
+A lightweight CLI tool for prokaryotic promoter prediction. 
 从 DNA 序列预测细菌启动子活性的轻量级命令行工具。
 
 ```text
@@ -14,12 +15,18 @@
   ___) |_____| |_____| | |_) | (_) | (_| |  __/ |   ___) | ___) |
  |____/      |_|     |____/ \___/ \__,_|\___|_|  |____(_)____/ 
                                                               
- 从 DNA 序列预测细菌启动子活性的轻量级命令行工具
+A lightweight CLI tool for prokaryotic promoter prediction from DNA sequences. 
+从 DNA 序列预测细菌启动子活性的轻量级命令行工具
 ```
+
+## Features
+- Predicts promoter activity from DNA sequences
+- Lightweight and fast
+- Command-line interface (CLI)
 
 ## Install
 ```bash
-pip install git+https://github.com/RongFan6288/synbio-promoter-predictor-.git
+pip install synbio-promoter-predictor
 ```
 
 ## Usage
@@ -35,7 +42,7 @@ If you use this tool in your research, please cite:
 ```bibtex
 @software{fan2026synbio,
   author = "Fan, Rong",
-  title = "SynBio Promoter Predictor: 一个用于原核启动子预测的轻量级命令行工具",
+  title = {SynBio Promoter Predictor: A Lightweight CLI Tool for Prokaryotic Promoter Prediction (一个用于原核启动子预测的轻量级命令行工具)},
   year = "2026",
   publisher = "GitHub",
   journal = "GitHub repository",
